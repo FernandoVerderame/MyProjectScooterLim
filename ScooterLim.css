@@ -1,0 +1,63 @@
+body {
+    background-image: url('background.jpg');
+    background-size: cover;
+    font-family: Poppins;
+}
+
+
+#box {
+    box-sizing: border-box;
+    margin: auto;
+    width: 1200px;
+    padding: 80px;
+    margin-top: 60px;
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.container {
+    width: 1000px;
+    margin: auto; 
+}
+
+header, nav {
+    text-align: center;
+}
+
+.logo {
+    width: 250px;
+}
+
+#titolo {
+    color: rgb(61, 236, 7);
+    font-size: 35px;
+    margin: 5px;
+}
+
+.rettangoloInput {
+    background-color: rgb(61, 236, 7);
+    border: 1px solid black;
+    padding: 12px;
+}
+
+.MonoCarica1 {
+    border: 13px solid orange;
+    border-radius: 5px;
+    width: 300px;
+}
+
+.MonoCarica2 {
+    border: 13px solid green;
+    border-radius: 5px;
+    width: 550px;
+}
+
+.MonoCarica3 {
+    border: 13px solid rgb(179, 67, 16);
+    border-radius: 5px;
+    width: 120px;
+}
+
+.ColoreScrittura {
+    color: white;
+}
